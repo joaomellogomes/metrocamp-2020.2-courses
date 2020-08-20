@@ -1,0 +1,3329 @@
+[
+  {
+    "name": "ADMINISTRAÇÃO",
+    "lessons": [
+      {
+        "period": "Noturno",
+        "weekday": "2ª",
+        "name": "Administração de Sistemas de Informação",
+        "teacher": "Anderson Mendes da Silva",
+        "zoomRoomURL": "https://zoom.us/j/5845854015"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "2ª",
+        "name": "Contabilidade Geral - Introdutória",
+        "teacher": "Kleber Marsariolli",
+        "zoomRoomURL": "https://zoom.us/j/5954955117"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "3ª",
+        "name": "Gestão Estratégica",
+        "teacher": "Edilson Antonio Ignacio",
+        "zoomRoomURL": "https://zoom.us/j/9293442738"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "3ª",
+        "name": "Gestão Tributária",
+        "teacher": "Enedir Antonio Beccari",
+        "zoomRoomURL": "https://zoom.us/j/8322911092"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "3ª",
+        "name": "Informática e Gestão",
+        "teacher": "Anderson Mendes da Silva",
+        "zoomRoomURL": "https://zoom.us/j/5845854015"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "4ª",
+        "name": "Gestão de Suprimentos",
+        "teacher": "João Henrique Escamia",
+        "zoomRoomURL": "https://zoom.us/j/7324664775"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "4ª",
+        "name": "Matemática Empresarial",
+        "teacher": "Maria Aparecida dos Santos",
+        "zoomRoomURL": "https://zoom.us/j/4421264645"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "5ª",
+        "name": "Direito Empresarial Aplicado",
+        "teacher": "Washington Eduardo Perozim da Silva",
+        "zoomRoomURL": "https://zoom.us/j/2160283717"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "5ª",
+        "name": "Gestão de Pequenas e Médias Empresas",
+        "teacher": "Heloisa Helena Oliveira Salgado",
+        "zoomRoomURL": "https://zoom.us/j/6856515462"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "5ª",
+        "name": "Legislação Empresarial e Trabalhista",
+        "teacher": "Nivea da Costa Silva",
+        "zoomRoomURL": "https://zoom.us/j/7288324576"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "5ª",
+        "name": "Marketing Empresarial",
+        "teacher": "Jorge Luiz Azevedo",
+        "zoomRoomURL": "https://zoom.us/j/8159132632"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "5ª",
+        "name": "Princípios de Gestão",
+        "teacher": "Edilson Antonio Ignacio",
+        "zoomRoomURL": "https://zoom.us/j/9293442738"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "6ª",
+        "name": "Administração Mercadológica Avançada",
+        "teacher": "Maria Aparecida de Almeida",
+        "zoomRoomURL": "https://zoom.us/j/4305528528"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "6ª",
+        "name": "Comportamento Organizacional",
+        "teacher": "Jose Anizio Marim",
+        "zoomRoomURL": "https://zoom.us/j/2705410494"
+      }
+    ]
+  },
+  {
+    "name": "ANÁLISE E DESENVOLVIMENTO DE SISTEMAS",
+    "lessons": [
+      {
+        "period": "Noturno",
+        "weekday": "2ª",
+        "name": "Laboratório de Redes Windows",
+        "teacher": "Paulo da Costa",
+        "zoomRoomURL": "https://zoom.us/j/8999815915"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "3ª",
+        "name": "Redes de Computadores",
+        "teacher": "Nadir Pereira Dias",
+        "zoomRoomURL": "https://zoom.us/j/2674535473"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "4ª",
+        "name": "Programação Orientada a Objetos",
+        "teacher": "João Ronaldo Del Ducca Cunha",
+        "zoomRoomURL": "https://zoom.us/j/5467545672"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "5ª",
+        "name": "Temas Tecnológicos em Infraestrutura",
+        "teacher": "Cristiano Roque Roland Portella",
+        "zoomRoomURL": "https://zoom.us/j/2071420992"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "5ª",
+        "name": "Temas Tecnológicos em Raciocínio Lógico e Matemático",
+        "teacher": "Odair Jacinto da Silva",
+        "zoomRoomURL": "https://zoom.us/j/2812641801"
+      }
+    ]
+  },
+  {
+    "name": "ARQUITETURA E URBANISMO",
+    "lessons": [
+      {
+        "period": "Noturno",
+        "weekday": "2ª",
+        "name": "Acessibilidade e Mobilidade Urbana",
+        "teacher": "Daniel Luis Nithack e Silva",
+        "zoomRoomURL": "https://zoom.us/j/9888484254"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "2ª",
+        "name": "História da Arquitetura e do Urbanismo Contemporâneo",
+        "teacher": "Eliane Godoy Vendrame",
+        "zoomRoomURL": "https://zoom.us/j/8116742067"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "2ª",
+        "name": "Sistema de Análise Urbana",
+        "teacher": "Monica Soares Resio Zuffo",
+        "zoomRoomURL": "https://zoom.us/j/7677898758"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "3ª",
+        "name": "Projeto Institucional",
+        "teacher": "Jairo Cezar Colombo",
+        "zoomRoomURL": "https://zoom.us/j/4873219478"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "3ª",
+        "name": "Sistema Integrado de Urbanismo",
+        "teacher": "Monica Soares Resio Zuffo",
+        "zoomRoomURL": "https://zoom.us/j/7677898758"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "3ª",
+        "name": "Topografia",
+        "teacher": "Simir Jose Moreli Camelini Fioravanti",
+        "zoomRoomURL": "https://zoom.us/j/5293471806"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "4ª",
+        "name": "História da Arquitetura e do Urbanismo Clássico e Barroco",
+        "teacher": "Gelly Mendes Rodrigues",
+        "zoomRoomURL": "https://zoom.us/j/5926602852"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "4ª",
+        "name": "Projeto Residencial Unifamiliar",
+        "teacher": "Jairo Cezar Colombo",
+        "zoomRoomURL": "https://zoom.us/j/4873219478"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "5ª",
+        "name": "Física Aplicada",
+        "teacher": "Oswaldo Kazushi Fujiy",
+        "zoomRoomURL": "https://zoom.us/j/8945646862"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "5ª",
+        "name": "Resistência dos Materiais",
+        "teacher": "Ivo Gianini",
+        "zoomRoomURL": "https://zoom.us/j/5300583230"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "5ª",
+        "name": "Sistemas de Concreto Armado",
+        "teacher": "Joaquim Marins Neto",
+        "zoomRoomURL": "https://zoom.us/j/3782195903"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "6ª",
+        "name": "Iluminação Natural e Acústica",
+        "teacher": "Eder Ricardo Voltani",
+        "zoomRoomURL": "https://zoom.us/j/3812596269"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "6ª",
+        "name": "Projeto da Edificação Hospitalar",
+        "teacher": "Gelly Mendes Rodrigues",
+        "zoomRoomURL": "https://zoom.us/j/5926602852"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "6ª",
+        "name": "Projeto de Edificação Hospitalar",
+        "teacher": "Gelly Mendes Rodrigues",
+        "zoomRoomURL": "https://zoom.us/j/5926602852"
+      }
+    ]
+  },
+  {
+    "name": "CIÊNCIA DA COMPUTAÇÃO",
+    "lessons": [
+      {
+        "period": "Noturno",
+        "weekday": "2ª",
+        "name": "Programação Avançada",
+        "teacher": "João Ronaldo Del Ducca Cunha",
+        "zoomRoomURL": "https://zoom.us/j/5467545672"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "2ª",
+        "name": "Protocolos de Comunicação TCP/IP",
+        "teacher": "Marcos Antonio de Almeida Cora",
+        "zoomRoomURL": "https://zoom.us/j/8278456556"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "4ª",
+        "name": "Computação Científica",
+        "teacher": "Alan Gonçalves",
+        "zoomRoomURL": "https://zoom.us/j/8049883181"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "4ª",
+        "name": "Programação Orientada a Objetos",
+        "teacher": "Odair Jacinto da Silva",
+        "zoomRoomURL": "https://zoom.us/j/2812641801"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "4ª",
+        "name": "Sistemas Operacionais",
+        "teacher": "Giulliano Paes Carnielli",
+        "zoomRoomURL": "https://zoom.us/j/7464539371"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "5ª",
+        "name": "Sistemas Distribuídos",
+        "teacher": "Santiago Azevedo Robles",
+        "zoomRoomURL": "https://zoom.us/j/3915501810"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "5ª",
+        "name": "Temas Tecnológicos em Redes",
+        "teacher": "Paulo da Costa",
+        "zoomRoomURL": "https://zoom.us/j/8999815915"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "6ª",
+        "name": "Laboratório de Redes – Windows",
+        "teacher": "Paulo da Costa",
+        "zoomRoomURL": "https://zoom.us/j/8999815915"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "6ª",
+        "name": "Temas Tecnológicos em Redes",
+        "teacher": "Paulo da Costa",
+        "zoomRoomURL": "https://zoom.us/j/8999815915"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "6ª",
+        "name": "Teoria dos Grafos",
+        "teacher": "Giulliano Paes Carnielli",
+        "zoomRoomURL": "https://zoom.us/j/7464539371"
+      }
+    ]
+  },
+  {
+    "name": "BIOMEDICINA",
+    "lessons": [
+      {
+        "period": "Matutino",
+        "weekday": "2ª",
+        "name": "Botecnologia",
+        "teacher": "Olga Barbara Carvalho Baumgarten",
+        "zoomRoomURL": "https://zoom.us/j/2086606418"
+      },
+      {
+        "period": "Matutino",
+        "weekday": "2ª",
+        "name": "Hematologia Clínica",
+        "teacher": "Rafaela Benatti de Oliveira",
+        "zoomRoomURL": "https://zoom.us/j/6712834230"
+      },
+      {
+        "period": "Matutino",
+        "weekday": "3ª",
+        "name": "Citologia Clínica",
+        "teacher": "Aline Tatiane Toneto Inocencio",
+        "zoomRoomURL": "https://zoom.us/j/6921087751"
+      },
+      {
+        "period": "Matutino",
+        "weekday": "3ª",
+        "name": "Gestão nos Serviços de Saúde",
+        "teacher": "Alexandre Veronez",
+        "zoomRoomURL": "https://zoom.us/j/3637687141"
+      },
+      {
+        "period": "Matutino",
+        "weekday": "3ª",
+        "name": "Saúde Coletiva",
+        "teacher": "Katia Danailof",
+        "zoomRoomURL": "https://zoom.us/j/5692798489"
+      },
+      {
+        "period": "Matutino",
+        "weekday": "4ª",
+        "name": "Epidemiologia e Bioestatísca",
+        "teacher": "Danielle Leite de Lemos Oliveira",
+        "zoomRoomURL": "https://zoom.us/j/2245095455"
+      },
+      {
+        "period": "Matutino",
+        "weekday": "4ª",
+        "name": "Imaginologia Humana",
+        "teacher": "Aline Tatiane Toneto Inocencio",
+        "zoomRoomURL": "https://zoom.us/j/6921087751"
+      },
+      {
+        "period": "Matutino",
+        "weekday": "4ª",
+        "name": "Toxicologia Geral",
+        "teacher": "Daiana Maria Furlan Sandrini",
+        "zoomRoomURL": "https://zoom.us/j/9249323165"
+      },
+      {
+        "period": "Matutino",
+        "weekday": "5ª",
+        "name": "Fisiologia Humana",
+        "teacher": "Fernando Oliveira Catanho Da Silva",
+        "zoomRoomURL": "https://zoom.us/j/9942168268"
+      },
+      {
+        "period": "Matutino",
+        "weekday": "5ª",
+        "name": "Urianálise e Líquidos Corporais",
+        "teacher": "Alexandre Veronez",
+        "zoomRoomURL": "https://zoom.us/j/3637687141"
+      },
+      {
+        "period": "Matutino",
+        "weekday": "6ª",
+        "name": "Banco de Sangue e Hemoderivados",
+        "teacher": "Rafaela Benatti de Oliveira",
+        "zoomRoomURL": "https://zoom.us/j/6712834230"
+      },
+      {
+        "period": "Matutino",
+        "weekday": "6ª",
+        "name": "Mcologia Médica e Virologia Clínica",
+        "teacher": "Luciana Maria de Hollanda",
+        "zoomRoomURL": "https://zoom.us/j/5361941255"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "2ª",
+        "name": "Botecnologia",
+        "teacher": "Olga Barbara Carvalho Baumgarten",
+        "zoomRoomURL": "https://zoom.us/j/2086606418"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "2ª",
+        "name": "Mcologia Médica e Virologia Clínica",
+        "teacher": "Luciana Maria de Hollanda",
+        "zoomRoomURL": "https://zoom.us/j/5361941255"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "3ª",
+        "name": "Citologia Clínica",
+        "teacher": "Aline Tatiane Toneto Inocencio",
+        "zoomRoomURL": "https://zoom.us/j/6921087751"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "3ª",
+        "name": "Gestão nos Serviços de Saúde",
+        "teacher": "Alexandre Veronez",
+        "zoomRoomURL": "https://zoom.us/j/3637687141"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "3ª",
+        "name": "Saúde Coletiva",
+        "teacher": "Danielle Leite de Lemos Oliveira",
+        "zoomRoomURL": "https://zoom.us/j/2245095455"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "4ª",
+        "name": "Epidemiologia e Bioestatísca",
+        "teacher": "Danielle Leite de Lemos Oliveira",
+        "zoomRoomURL": "https://zoom.us/j/2245095455"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "4ª",
+        "name": "Imaginologia Humana",
+        "teacher": "Aline Tatiane Toneto Inocencio",
+        "zoomRoomURL": "https://zoom.us/j/6921087751"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "4ª",
+        "name": "Toxicologia geral",
+        "teacher": "Daiana Maria Furlan Sandrini",
+        "zoomRoomURL": "https://zoom.us/j/9249323165"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "5ª",
+        "name": "Fisiologia Humana",
+        "teacher": "Gustavo Barbosa dos Santos",
+        "zoomRoomURL": "https://zoom.us/j/7481535317"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "5ª",
+        "name": "Urianálise e Líquidos Corporais",
+        "teacher": "Alexandre Veronez",
+        "zoomRoomURL": "https://zoom.us/j/3637687141"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "6ª",
+        "name": "Banco de Sangue e Hemoderivados",
+        "teacher": "Rafaela Benatti de Oliveira",
+        "zoomRoomURL": "https://zoom.us/j/6712834230"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "6ª",
+        "name": "Hematologia Clínica",
+        "teacher": "Bruno Damião",
+        "zoomRoomURL": "https://zoom.us/j/3855772689"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "",
+        "name": "ESTÁGIO LABORATORIAL SUPERVISIONADO EM ANÁLISES AMBIENTAIS",
+        "teacher": "Alexandre Veronez",
+        "zoomRoomURL": "https://zoom.us/j/3637687141"
+      }
+    ]
+  },
+  {
+    "name": "CIÊNCIAS CONTÁBEIS",
+    "lessons": [
+      {
+        "period": "Noturno",
+        "weekday": "2ª",
+        "name": "Contabilidade Geral - Introdutória",
+        "teacher": "Kleber Marsariolli",
+        "zoomRoomURL": "https://zoom.us/j/5954955117"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "2ª",
+        "name": "Contabilidade Societária",
+        "teacher": "Antonio Moreira Franco Junior",
+        "zoomRoomURL": "https://zoom.us/j/4723948573"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "3ª",
+        "name": "Controladoria",
+        "teacher": "Kleber Marsariolli",
+        "zoomRoomURL": "https://zoom.us/j/5954955117"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "3ª",
+        "name": "Gestão Estratégica",
+        "teacher": "Edilson Antonio Ignacio",
+        "zoomRoomURL": "https://zoom.us/j/9293442738"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "3ª",
+        "name": "Gestão Tributária",
+        "teacher": "Enedir Antonio Beccari",
+        "zoomRoomURL": "https://zoom.us/j/8322911092"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "3ª",
+        "name": "Informática e Gestão",
+        "teacher": "Anderson Mendes da Silva",
+        "zoomRoomURL": "https://zoom.us/j/5845854015"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "4ª",
+        "name": "Auditoria",
+        "teacher": "Ederson Oliva Gobato",
+        "zoomRoomURL": "https://zoom.us/j/3536167387"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "4ª",
+        "name": "Contabilidade Intermediária",
+        "teacher": "Antonio Moreira Franco Junior",
+        "zoomRoomURL": "https://zoom.us/j/4723948573"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "4ª",
+        "name": "Matemática Empresarial",
+        "teacher": "Maria Aparecida dos Santos",
+        "zoomRoomURL": "https://zoom.us/j/4421264645"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "5ª",
+        "name": "Análise das Demonstrações Contábeis",
+        "teacher": "Kleber Marsariolli",
+        "zoomRoomURL": "https://zoom.us/j/5954955117"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "5ª",
+        "name": "Direito Empresarial Aplicado",
+        "teacher": "Washington Eduardo Perozim da Silva",
+        "zoomRoomURL": "https://zoom.us/j/2160283717"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "5ª",
+        "name": "Legislação Empresarial e Trabalhista",
+        "teacher": "Nivea da Costa Silva",
+        "zoomRoomURL": "https://zoom.us/j/7288324576"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "5ª",
+        "name": "Princípios de Gestão",
+        "teacher": "Edilson Antonio Ignacio",
+        "zoomRoomURL": "https://zoom.us/j/9293442738"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "6ª",
+        "name": "Comportamento Organizacional",
+        "teacher": "Jose Anizio Marim",
+        "zoomRoomURL": "https://zoom.us/j/2705410494"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "6ª",
+        "name": "Contabilidade Avançada e Gerencial",
+        "teacher": "Antonio Moreira Franco Junior",
+        "zoomRoomURL": "https://zoom.us/j/4723948573"
+      }
+    ]
+  },
+  {
+    "name": "DANÇA",
+    "lessons": [
+      {
+        "period": "Matutino",
+        "weekday": "2ª",
+        "name": "Seminário de Prática de Ensino na Dança:",
+        "teacher": "Ana Cristina Ribeiro da Silva",
+        "zoomRoomURL": "https://zoom.us/j/7259242615"
+      },
+      {
+        "period": "Matutino",
+        "weekday": "3ª",
+        "name": "Dança Adaptada:",
+        "teacher": "Natalia Augusto Silva de Carvalho",
+        "zoomRoomURL": "https://zoom.us/j/4094354972"
+      },
+      {
+        "period": "Matutino",
+        "weekday": "4ª",
+        "name": "Técnicas de Dança",
+        "teacher": "Natalia Vasconcellos Alleoni",
+        "zoomRoomURL": "https://zoom.us/j/5136766230"
+      },
+      {
+        "period": "Matutino",
+        "weekday": "5ª",
+        "name": "Improvisação na Dança",
+        "teacher": "Jussara Correa Miller",
+        "zoomRoomURL": "https://zoom.us/j/6459165632"
+      },
+      {
+        "period": "Matutino",
+        "weekday": "6ª",
+        "name": "Prática de Montagem",
+        "teacher": "Jussara Correa Miller",
+        "zoomRoomURL": "https://zoom.us/j/6459165632"
+      },
+      {
+        "period": "Matutino",
+        "weekday": "",
+        "name": "Estágio Supervisionado",
+        "teacher": "Jussara Correa Miller",
+        "zoomRoomURL": "https://zoom.us/j/6459165632"
+      },
+      {
+        "period": "Matutino",
+        "weekday": "",
+        "name": "Trabalho de Conclusão de Curso I",
+        "teacher": "Katia Danailof",
+        "zoomRoomURL": "https://zoom.us/j/5692798489"
+      }
+    ]
+  },
+  {
+    "name": "DESIGN GRÁFICO",
+    "lessons": [
+      {
+        "period": "Noturno",
+        "weekday": "2ª",
+        "name": "Marketing e Design",
+        "teacher": "Giuliano Faustino Griege Machado",
+        "zoomRoomURL": "https://zoom.us/j/4586119891"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "3ª",
+        "name": "História do Design",
+        "teacher": "Paulo Antonio Carvalho Costa",
+        "zoomRoomURL": "https://zoom.us/j/9871632589"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "4ª",
+        "name": "Comunicação Visual",
+        "teacher": "Jackeson Roberto de Almeida Vidal",
+        "zoomRoomURL": "https://zoom.us/j/8857817179"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "5ª",
+        "name": "Semiótica Aplicada ao Design",
+        "teacher": "Rodrigo Daniel Sanches",
+        "zoomRoomURL": "https://zoom.us/j/6744901793"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "5ª",
+        "name": "Temas Tecnológicos em Gestão em Design Gráfico",
+        "teacher": "Roberta Steganha",
+        "zoomRoomURL": "https://zoom.us/j/7113642300"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "6ª",
+        "name": "Gestão de Marcas - Branding",
+        "teacher": "Jorge Tadeu Brettas de Godoy",
+        "zoomRoomURL": "https://zoom.us/j/3982540067"
+      }
+    ]
+  },
+  {
+    "name": "DIREITO",
+    "lessons": [
+      {
+        "period": "Matutino",
+        "weekday": "3ª",
+        "name": "Prática Jurídica e Estágio Supervisionado IV – Tributário e Constitucional",
+        "teacher": "Paula da Cunha Bozzi",
+        "zoomRoomURL": "https://zoom.us/j/5062618736"
+      },
+      {
+        "period": "Matutino",
+        "weekday": "5ª",
+        "name": "Direito Previdenciário",
+        "teacher": "Moyses Andre Bittar",
+        "zoomRoomURL": "https://zoom.us/j/7731167358"
+      },
+      {
+        "period": "Matutino",
+        "weekday": "5ª",
+        "name": "Ética Profissional",
+        "teacher": "Luiz Carlos de Souza Auricchio",
+        "zoomRoomURL": "https://zoom.us/j/8544218010"
+      },
+      {
+        "period": "Matutino",
+        "weekday": "6ª",
+        "name": "Mediação e Arbitragem",
+        "teacher": "Daiane Mardegan",
+        "zoomRoomURL": "https://zoom.us/j/2633901174"
+      },
+      {
+        "period": "Matutino",
+        "weekday": "6ª",
+        "name": "Tutela Coletiva dos Direitos",
+        "teacher": "Daiane Mardegan",
+        "zoomRoomURL": "https://zoom.us/j/2633901174"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "2ª",
+        "name": "Direito Civil – Contrato",
+        "teacher": "Washington Eduardo Perozim da Silva",
+        "zoomRoomURL": "https://zoom.us/j/2160283717"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "2ª",
+        "name": "Ética Geral e Jurídica",
+        "teacher": "Luiz Carlos de Souza Auricchio",
+        "zoomRoomURL": "https://zoom.us/j/8544218010"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "2ª",
+        "name": "Mediação e Arbitragem",
+        "teacher": "Nivea da Costa Silva",
+        "zoomRoomURL": "https://zoom.us/j/7288324576"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "2ª",
+        "name": "Processo Civil – Procedimentos Especiais",
+        "teacher": "Luis Henrique Bortolai",
+        "zoomRoomURL": "https://zoom.us/j/7469533342"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "3ª",
+        "name": "Direito Civil – Obrigações",
+        "teacher": "Valdemir Moreira dos Reis Junior",
+        "zoomRoomURL": "https://zoom.us/j/3388590562"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "3ª",
+        "name": "Ordem Tributária",
+        "teacher": "Armando Zanin Neto",
+        "zoomRoomURL": "https://zoom.us/j/4649283907"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "3ª",
+        "name": "Processo Constitucional",
+        "teacher": "Paula da Cunha Bozzi",
+        "zoomRoomURL": "https://zoom.us/j/5062618736"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "3ª",
+        "name": "Processo do Trabalho",
+        "teacher": "Moyses Andre Bittar",
+        "zoomRoomURL": "https://zoom.us/j/7731167358"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "4ª",
+        "name": "Teoria Constitucional e Direitos Fundamentais",
+        "teacher": "Armando Zanin Neto",
+        "zoomRoomURL": "https://zoom.us/j/4649283907"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "5ª",
+        "name": "Direito do Trabalho",
+        "teacher": "Moyses Andre Bittar",
+        "zoomRoomURL": "https://zoom.us/j/7731167358"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "5ª",
+        "name": "Direito Empresarial Aplicado",
+        "teacher": "Washington Eduardo Perozim da Silva",
+        "zoomRoomURL": "https://zoom.us/j/2160283717"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "5ª",
+        "name": "Direito Penal – Especial",
+        "teacher": "Gabriel Martins Furquim",
+        "zoomRoomURL": "https://zoom.us/j/9673698650"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "5ª",
+        "name": "Direito Previdenciário",
+        "teacher": "Luiz Carlos de Souza Auricchio",
+        "zoomRoomURL": "https://zoom.us/j/8544218010"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "5ª",
+        "name": "Processo Civil – Conhecimento",
+        "teacher": "Jose Guilherme Di Rienzo Marrey",
+        "zoomRoomURL": "https://zoom.us/j/4970992775"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "6ª",
+        "name": "Direito Civil – Família",
+        "teacher": "Valdemir Moreira dos Reis Junior",
+        "zoomRoomURL": "https://zoom.us/j/3388590562"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "6ª",
+        "name": "Direito Internacional Privado e Público",
+        "teacher": "Caroline Lopes Placca",
+        "zoomRoomURL": "https://zoom.us/j/2333750133"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "6ª",
+        "name": "Direito Penal – Teoria da Pena",
+        "teacher": "Gabriel Martins Furquim",
+        "zoomRoomURL": "https://zoom.us/j/9673698650"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "6ª",
+        "name": "Prática Jurídica e Estágio Supervisionado IV – Tributário e Constitucional",
+        "teacher": "Nivea da Costa Silva",
+        "zoomRoomURL": "https://zoom.us/j/7288324576"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "6ª",
+        "name": "Processo Civil – Execução",
+        "teacher": "Maurita Baldin Altino Teodoro de Bellis",
+        "zoomRoomURL": "https://zoom.us/j/9401848373"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "6ª",
+        "name": "Teoria do Direito Administrativo",
+        "teacher": "Paula da Cunha Bozzi",
+        "zoomRoomURL": "https://zoom.us/j/5062618736"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "",
+        "name": "Componente de Flexibilização em Direito Global",
+        "teacher": "Luis Henrique Bortolai",
+        "zoomRoomURL": "https://zoom.us/j/7469533342"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "",
+        "name": "Estágio Supervisionado II",
+        "teacher": "Mayara Teixeira Ribeiro",
+        "zoomRoomURL": "https://zoom.us/j/3703421293"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "",
+        "name": "Filosofia do Direito",
+        "teacher": "Gabriel Martins Furquim",
+        "zoomRoomURL": "https://zoom.us/j/9673698650"
+      }
+    ]
+  },
+  {
+    "name": "EDUCAÇÃO FÍSICA",
+    "lessons": [
+      {
+        "period": "Matutino",
+        "weekday": "2ª",
+        "name": "Atividades Aquaticas na Promoção da Saúde",
+        "teacher": "Andre Luis Aroni",
+        "zoomRoomURL": "https://zoom.us/j/7454208459"
+      },
+      {
+        "period": "Matutino",
+        "weekday": "3ª",
+        "name": "Estudo das Lutas e Artes Marciais",
+        "teacher": "Diego Leandro Ferreira",
+        "zoomRoomURL": "https://zoom.us/j/4405551558"
+      },
+      {
+        "period": "Matutino",
+        "weekday": "4ª",
+        "name": "Musculação e Atividade Física em Academia",
+        "teacher": "Bernardo Neme Ide",
+        "zoomRoomURL": "https://zoom.us/j/2905541133"
+      },
+      {
+        "period": "Matutino",
+        "weekday": "5ª",
+        "name": "Legislação e Organização Desportiva",
+        "teacher": "Marlus Alexandre Sousa",
+        "zoomRoomURL": "https://zoom.us/j/7591247992"
+      },
+      {
+        "period": "Matutino",
+        "weekday": "6ª",
+        "name": "Cineantropometria",
+        "teacher": "Ana Cristina Ribeiro da Silva",
+        "zoomRoomURL": "https://zoom.us/j/7259242615"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "2ª",
+        "name": "Cinesiologia",
+        "teacher": "Matheus Perez",
+        "zoomRoomURL": "https://zoom.us/j/7350694853"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "2ª",
+        "name": "Legislação e Organização Desportiva",
+        "teacher": "Sergio Luis Giacomello",
+        "zoomRoomURL": "https://zoom.us/j/6419785945"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "3ª",
+        "name": "Estudo das Lutas e Artes Marciais",
+        "teacher": "Laercio Claro Pereira Franco",
+        "zoomRoomURL": "https://zoom.us/j/6043829995"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "3ª",
+        "name": "Psicomotricidade",
+        "teacher": "Andre Luis Aroni",
+        "zoomRoomURL": "https://zoom.us/j/7454208459"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "4ª",
+        "name": "História Métodos e Sistemas de Educação Física",
+        "teacher": "Katia Danailof",
+        "zoomRoomURL": "https://zoom.us/j/5692798489"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "4ª",
+        "name": "Musculação e Atividade Física em Academia",
+        "teacher": "Bernardo Neme Ide",
+        "zoomRoomURL": "https://zoom.us/j/2905541133"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "5ª",
+        "name": "Cineantropometria",
+        "teacher": "Ana Cristina Ribeiro da Silva",
+        "zoomRoomURL": "https://zoom.us/j/7259242615"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "6ª",
+        "name": "Atividades Aquáticas na Promoção da Saúde",
+        "teacher": "Diego Leandro Ferreira",
+        "zoomRoomURL": "https://zoom.us/j/4405551558"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "",
+        "name": "Estágio Supervisionado em Gestão e Marketing Esportiva",
+        "teacher": "Andre Luis Aroni",
+        "zoomRoomURL": "https://zoom.us/j/7454208459"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "",
+        "name": "TRABALHO DE CONCLUSÃO DE CURSO - Pesquisa",
+        "teacher": "Katia Danailof",
+        "zoomRoomURL": "https://zoom.us/j/5692798489"
+      }
+    ]
+  },
+  {
+    "name": "ENFERMAGEM",
+    "lessons": [
+      {
+        "period": "Matutino",
+        "weekday": "2ª",
+        "name": "Administração em Enfermagem",
+        "teacher": "Maria Andrea da Silva Ribeiro",
+        "zoomRoomURL": "https://zoom.us/j/7161630305"
+      },
+      {
+        "period": "Matutino",
+        "weekday": "2ª",
+        "name": "Enfermagem em Saúde Coletiva",
+        "teacher": "Danielle Leite de Lemos Oliveira",
+        "zoomRoomURL": "https://zoom.us/j/2245095455"
+      },
+      {
+        "period": "Matutino",
+        "weekday": "2ª",
+        "name": "Microbiologia e Imunologia",
+        "teacher": "Rosana Francisco Siqueira dos Santos",
+        "zoomRoomURL": "https://zoom.us/j/5628766164"
+      },
+      {
+        "period": "Matutino",
+        "weekday": "3ª",
+        "name": "Enfermagem em CC e Cantral de Material",
+        "teacher": "Hellen Maria de Lima Graf Fernandes",
+        "zoomRoomURL": "https://zoom.us/j/6441640057"
+      },
+      {
+        "period": "Matutino",
+        "weekday": "3ª",
+        "name": "Patologia Humana",
+        "teacher": "Marcos Eduardo Lamas de Albuquerque",
+        "zoomRoomURL": "https://zoom.us/j/7154438556"
+      },
+      {
+        "period": "Matutino",
+        "weekday": "3ª",
+        "name": "Saúde Coletiva",
+        "teacher": "Katia Danailof",
+        "zoomRoomURL": "https://zoom.us/j/5692798489"
+      },
+      {
+        "period": "Matutino",
+        "weekday": "4ª",
+        "name": "Epidemiologia e Bioestatísca",
+        "teacher": "Danielle Leite de Lemos Oliveira",
+        "zoomRoomURL": "https://zoom.us/j/2245095455"
+      },
+      {
+        "period": "Matutino",
+        "weekday": "4ª",
+        "name": "Ética e Legislação em Enfermagem",
+        "teacher": "Maria Andrea da Silva Ribeiro",
+        "zoomRoomURL": "https://zoom.us/j/7161630305"
+      },
+      {
+        "period": "Matutino",
+        "weekday": "4ª",
+        "name": "Gestão de Sistemas e Serviços de Saúde",
+        "teacher": "Monica Pimenta do Nascimento",
+        "zoomRoomURL": "https://zoom.us/j/4754766086"
+      },
+      {
+        "period": "Matutino",
+        "weekday": "4ª",
+        "name": "Imunologia",
+        "teacher": "Rosana Francisco Siqueira dos Santos",
+        "zoomRoomURL": "https://zoom.us/j/5628766164"
+      },
+      {
+        "period": "Matutino",
+        "weekday": "5ª",
+        "name": "Farmacologia",
+        "teacher": "Bruno Damião",
+        "zoomRoomURL": "https://zoom.us/j/3855772689"
+      },
+      {
+        "period": "Matutino",
+        "weekday": "5ª",
+        "name": "Fisiologia Humana",
+        "teacher": "Fernando Oliveira Catanho da Silva",
+        "zoomRoomURL": "https://zoom.us/j/9942168268"
+      },
+      {
+        "period": "Matutino",
+        "weekday": "5ª",
+        "name": "Psicologia Aplicada a Saúde",
+        "teacher": "Jose Anizio Marim",
+        "zoomRoomURL": "https://zoom.us/j/2705410494"
+      },
+      {
+        "period": "Matutino",
+        "weekday": "5ª",
+        "name": "Saúde Coletiva",
+        "teacher": "Monica Pimenta do Nascimento",
+        "zoomRoomURL": "https://zoom.us/j/4754766086"
+      },
+      {
+        "period": "Matutino",
+        "weekday": "5º",
+        "name": "Metodologia do Ensino em Enfermagem",
+        "teacher": "Maria Andrea da Silva Ribeiro",
+        "zoomRoomURL": "https://zoom.us/j/7161630305"
+      },
+      {
+        "period": "Matutino",
+        "weekday": "6ª",
+        "name": "Emfermagem em Saúde Mental",
+        "teacher": "Monica Pimenta do Nascimento",
+        "zoomRoomURL": "https://zoom.us/j/4754766086"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "2ª",
+        "name": "Enfermagem em Saúde Coletiva",
+        "teacher": "Danielle Leite de Lemos Oliveira",
+        "zoomRoomURL": "https://zoom.us/j/2245095455"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "2ª",
+        "name": "Epidemiologia e Bioestatística",
+        "teacher": "Rachel Paes Guimaraes",
+        "zoomRoomURL": "https://zoom.us/j/2977237940"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "2ª",
+        "name": "Microbiologia e Imunologia",
+        "teacher": "Rosana Francisco Siqueira dos Santos",
+        "zoomRoomURL": "https://zoom.us/j/5628766164"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "3ª",
+        "name": "Enfermagem em CC e Cantral de Material",
+        "teacher": "Hellen Maria de Lima Graf Fernandes",
+        "zoomRoomURL": "https://zoom.us/j/6441640057"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "3ª",
+        "name": "Patologia Humana",
+        "teacher": "Marcos Eduardo Lamas de Albuquerque",
+        "zoomRoomURL": "https://zoom.us/j/7154438556"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "3ª",
+        "name": "Práticas Integrativas e Complementares",
+        "teacher": "Maria Andrea da Silva Ribeiro",
+        "zoomRoomURL": "https://zoom.us/j/7161630305"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "3ª",
+        "name": "Saúde Coletiva",
+        "teacher": "Danielle Leite de Lemos Oliveira",
+        "zoomRoomURL": "https://zoom.us/j/2245095455"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "4ª",
+        "name": "Epidemiologia e Bioestatísca",
+        "teacher": "Danielle Leite de Lemos Oliveira",
+        "zoomRoomURL": "https://zoom.us/j/2245095455"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "4ª",
+        "name": "Marketing e Empreendedorismo em Nutrição",
+        "teacher": "Rodrigo Daniel Sanches",
+        "zoomRoomURL": "https://zoom.us/j/6744901793"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "5ª",
+        "name": "Farmacologia",
+        "teacher": "Ana Beatriz Albino de Almeida",
+        "zoomRoomURL": "https://zoom.us/j/4917952066"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "5ª",
+        "name": "Fisiologia Humana",
+        "teacher": "Gustavo Barbosa dos Santos",
+        "zoomRoomURL": "https://zoom.us/j/7481535317"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "5ª",
+        "name": "Psicologia Aplicada a Saúde",
+        "teacher": "Jose Anizio Marim",
+        "zoomRoomURL": "https://zoom.us/j/2705410494"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "6ª",
+        "name": "Emfermagem em Saúde Mental",
+        "teacher": "Monica Pimenta do Nascimento",
+        "zoomRoomURL": "https://zoom.us/j/4754766086"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "6ª",
+        "name": "Humanização em Saúde",
+        "teacher": "Hellen Maria de Lima Graf Fernandes",
+        "zoomRoomURL": "https://zoom.us/j/6441640057"
+      }
+    ]
+  },
+  {
+    "name": "ENGENHARIA CIVIL",
+    "lessons": [
+      {
+        "period": "Noturno",
+        "weekday": "2ª",
+        "name": "Barragens e Contenções de Terra",
+        "teacher": "Roberto Kassouf",
+        "zoomRoomURL": "https://zoom.us/j/3228549335"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "2ª",
+        "name": "Cálculo Aplicado",
+        "teacher": "Sidnei Marcelo Cominotti",
+        "zoomRoomURL": "https://zoom.us/j/5971661114"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "2ª",
+        "name": "Estruturas Metálicas e de Madeira",
+        "teacher": "Joao Batista Lamari Palma E Silva",
+        "zoomRoomURL": "https://zoom.us/j/6780765395"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "2ª",
+        "name": "Higiene e Segurança no Trabalho",
+        "teacher": "Ivo Gianini",
+        "zoomRoomURL": "https://zoom.us/j/5300583230"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "2ª",
+        "name": "Sistemas Estruturais e Teoria das Estruturas",
+        "teacher": "Amauri Ernesto Gomes",
+        "zoomRoomURL": "https://zoom.us/j/8734571378"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "3ª",
+        "name": "Hidráulica Aplicada",
+        "teacher": "Uira Pia Uacu Oliveira Deak",
+        "zoomRoomURL": "https://zoom.us/j/2191617553"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "3ª",
+        "name": "Legislação e Atribuições Profissionais",
+        "teacher": "Eder Ricardo Voltani",
+        "zoomRoomURL": "https://zoom.us/j/3812596269"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "3ª",
+        "name": "Saneamento e Gestão Ambiental",
+        "teacher": "Eder Ricardo Voltani",
+        "zoomRoomURL": "https://zoom.us/j/3812596269"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "4ª",
+        "name": "Abastecimento de Águas",
+        "teacher": "Uira Pia Uacu Oliveira Deak",
+        "zoomRoomURL": "https://zoom.us/j/2191617553"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "4ª",
+        "name": "Álgebra Linear",
+        "teacher": "Sidnei Marcelo Cominotti",
+        "zoomRoomURL": "https://zoom.us/j/5971661114"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "4ª",
+        "name": "Dinâmica",
+        "teacher": "Oswaldo Kazushi Fujiy",
+        "zoomRoomURL": "https://zoom.us/j/8945646862"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "4ª",
+        "name": "Princípios Básicos da Mecânica dos Solos2",
+        "teacher": "Roberto Kassouf",
+        "zoomRoomURL": "https://zoom.us/j/3228549335"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "4ª",
+        "name": "Projeto de Conclusão de Curso I",
+        "teacher": "Mariana Cristina Buratto Pereira",
+        "zoomRoomURL": "https://zoom.us/j/8955386284"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "4ª",
+        "name": "Projeto de Conclusão de Curso II",
+        "teacher": "Mariana Cristina Buratto Pereira",
+        "zoomRoomURL": "https://zoom.us/j/8955386284"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "4ª",
+        "name": "Transporte e Logística",
+        "teacher": "Daniel Luis Nithack E Silva",
+        "zoomRoomURL": "https://zoom.us/j/9888484254"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "5ª",
+        "name": "Desenho Aplicado a Engenharia Civil",
+        "teacher": "Gelly Mendes Rodrigues",
+        "zoomRoomURL": "https://zoom.us/j/5926602852"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "5ª",
+        "name": "Gerenciamento das Construções",
+        "teacher": "Jonatha Roberto Pereira",
+        "zoomRoomURL": "https://zoom.us/j/6319593330"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "5ª",
+        "name": "Hidrologia Aplicada",
+        "teacher": "Monica Soares Resio Zuffo",
+        "zoomRoomURL": "https://zoom.us/j/7677898758"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "5ª",
+        "name": "Pontes e Concreto Protendido",
+        "teacher": "Roberto Kassouf",
+        "zoomRoomURL": "https://zoom.us/j/3228549335"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "5ª",
+        "name": "Projetos de Estradas",
+        "teacher": "Daniel Luis Nithack E Silva",
+        "zoomRoomURL": "https://zoom.us/j/9888484254"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "6ª",
+        "name": "Construções de Concreto III",
+        "teacher": "Joaquim Marins Neto",
+        "zoomRoomURL": "https://zoom.us/j/3782195903"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "6ª",
+        "name": "Estágio Supervisionado",
+        "teacher": "Mariana Cristina Buratto Pereira",
+        "zoomRoomURL": "https://zoom.us/j/8955386284"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "6ª",
+        "name": "Gestão de Obras",
+        "teacher": "Daniel Luis Nithack E Silva",
+        "zoomRoomURL": "https://zoom.us/j/9888484254"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "6ª",
+        "name": "Mecânica dos Sólidos II",
+        "teacher": "Amauri Ernesto Gomes",
+        "zoomRoomURL": "https://zoom.us/j/8734571378"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "6ª",
+        "name": "Patologias nas Fundações e Estruturas",
+        "teacher": "Eduardo Oliveira de Melo",
+        "zoomRoomURL": "https://zoom.us/j/9222315459"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "6ª",
+        "name": "Tópicos Especiais em Construção Civil",
+        "teacher": "Uira Pia Uacu Oliveira Deak",
+        "zoomRoomURL": "https://zoom.us/j/2191617553"
+      }
+    ]
+  },
+  {
+    "name": "ENGENHARIA DE COMPUTAÇÃO",
+    "lessons": [
+      {
+        "period": "Noturno",
+        "weekday": "2ª",
+        "name": "Análise de Sistemas Lineares",
+        "teacher": "Priscila Todero de Almeida",
+        "zoomRoomURL": "https://zoom.us/j/8823995512"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "2ª",
+        "name": "Banco de Dados",
+        "teacher": "Giulliano Paes Carnielli",
+        "zoomRoomURL": "https://zoom.us/j/7464539371"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "2ª",
+        "name": "Cálculo Aplicado",
+        "teacher": "Sidnei Marcelo Cominotti",
+        "zoomRoomURL": "https://zoom.us/j/5971661114"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "2ª",
+        "name": "Circuitos Elétricos",
+        "teacher": "Giovani Cesar de Faria",
+        "zoomRoomURL": "https://zoom.us/j/3906661160"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "2ª",
+        "name": "Computação de Alto Desempenho",
+        "teacher": "Odair Jacinto da Silva",
+        "zoomRoomURL": "https://zoom.us/j/2812641801"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "3ª",
+        "name": "Eletrcidade e Magnetismo",
+        "teacher": "Priscila Todero de Almeida",
+        "zoomRoomURL": "https://zoom.us/j/8823995512"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "3ª",
+        "name": "Redes de Computadores",
+        "teacher": "Nadir Pereira Dias",
+        "zoomRoomURL": "https://zoom.us/j/2674535473"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "3ª",
+        "name": "Teoria da Computação e Compiladores",
+        "teacher": "Alan Gonçalves",
+        "zoomRoomURL": "https://zoom.us/j/8049883181"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "4ª",
+        "name": "Álgebra Linear",
+        "teacher": "Sidnei Marcelo Cominotti",
+        "zoomRoomURL": "https://zoom.us/j/5971661114"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "4ª",
+        "name": "Análise e Projeto de Algoritmos",
+        "teacher": "Cristiano Stupp Nunes",
+        "zoomRoomURL": "https://zoom.us/j/9567278805"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "4ª",
+        "name": "Dinâmica",
+        "teacher": "Oswaldo Kazushi Fujiy",
+        "zoomRoomURL": "https://zoom.us/j/8945646862"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "4ª",
+        "name": "Fenômenos de Transportes",
+        "teacher": "Gabriela Bevilaqua",
+        "zoomRoomURL": "https://zoom.us/j/7807207843"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "4ª",
+        "name": "Programação Orientada a Objetos",
+        "teacher": "Odair Jacinto da Silva",
+        "zoomRoomURL": "https://zoom.us/j/2812641801"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "5ª",
+        "name": "Automação Industrial",
+        "teacher": "Anderson Pires Rocha",
+        "zoomRoomURL": "https://zoom.us/j/9539153800"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "5ª",
+        "name": "Pesquisa Operacional e Otimização",
+        "teacher": "Sidnei Marcelo Cominotti",
+        "zoomRoomURL": "https://zoom.us/j/5971661114"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "5ª",
+        "name": "Sistemas Distribuídos",
+        "teacher": "Santiago Azevedo Robles",
+        "zoomRoomURL": "https://zoom.us/j/3915501810"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "6ª",
+        "name": "Lógica e Matemática e Discreta",
+        "teacher": "Kesede Rodrigues Julio",
+        "zoomRoomURL": "https://zoom.us/j/8292537872"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "6ª",
+        "name": "Tecnologias de Redes de Computadore",
+        "teacher": "Nadir Pereira Dias",
+        "zoomRoomURL": "https://zoom.us/j/2674535473"
+      }
+    ]
+  },
+  {
+    "name": "ENGENHARIA DE CONTROLE E AUTOMAÇÃO",
+    "lessons": [
+      {
+        "period": "Noturno",
+        "weekday": "2ª",
+        "name": "Análise de Sistemas Lineares",
+        "teacher": "Priscila Todero de Almeida",
+        "zoomRoomURL": "https://zoom.us/j/8823995512"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "2ª",
+        "name": "Cálculo Aplicado",
+        "teacher": "Sidnei Marcelo Cominotti",
+        "zoomRoomURL": "https://zoom.us/j/5971661114"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "2ª",
+        "name": "Circuitos Elétricos",
+        "teacher": "Giovani Cesar de Faria",
+        "zoomRoomURL": "https://zoom.us/j/3906661160"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "2ª",
+        "name": "Mecanismos e Robótica",
+        "teacher": "Andre Mendeleck",
+        "zoomRoomURL": "https://zoom.us/j/2819468265"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "2ª",
+        "name": "Processos Metalúrgicos",
+        "teacher": "Aristides Magri",
+        "zoomRoomURL": "https://zoom.us/j/5059569356"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "3ª",
+        "name": "Conversão de Energia",
+        "teacher": "João Henrique Silva",
+        "zoomRoomURL": "https://zoom.us/j/710 809 2187"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "3ª",
+        "name": "Desenho Mecânico",
+        "teacher": "Andrei Bavaresco Rezende",
+        "zoomRoomURL": "https://zoom.us/j/5615969292"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "3ª",
+        "name": "Eletrcidade e Magnetismo",
+        "teacher": "Priscila Todero de Almeida",
+        "zoomRoomURL": "https://zoom.us/j/8823995512"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "4ª",
+        "name": "Álgebra Linear",
+        "teacher": "Sidnei Marcelo Cominotti",
+        "zoomRoomURL": "https://zoom.us/j/5971661114"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "4ª",
+        "name": "Análise de Circuitos",
+        "teacher": "Eduardo Fernandes Nunes",
+        "zoomRoomURL": "https://zoom.us/j/6897326601"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "4ª",
+        "name": "Controle de Processos",
+        "teacher": "Anderson Pires Rocha",
+        "zoomRoomURL": "https://zoom.us/j/9539153800"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "4ª",
+        "name": "Dinâmica",
+        "teacher": "Oswaldo Kazushi Fujiy",
+        "zoomRoomURL": "https://zoom.us/j/8945646862"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "4ª",
+        "name": "Fenômenos de Transportes",
+        "teacher": "Gabriela Bevilaqua",
+        "zoomRoomURL": "https://zoom.us/j/7807207843"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "4ª",
+        "name": "Programação Orientada a Objetos",
+        "teacher": "Odair Jacinto da Silva",
+        "zoomRoomURL": "https://zoom.us/j/2812641801"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "5ª",
+        "name": "Automação Industrial",
+        "teacher": "Anderson Pires Rocha",
+        "zoomRoomURL": "https://zoom.us/j/9539153800"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "5ª",
+        "name": "Comando Numérico Computadorizado",
+        "teacher": "Aristides Magri",
+        "zoomRoomURL": "https://zoom.us/j/5059569356"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "6ª",
+        "name": "Automação Hidráulica/Pneumática",
+        "teacher": "Anderson Pires Rocha",
+        "zoomRoomURL": "https://zoom.us/j/9539153800"
+      }
+    ]
+  },
+  {
+    "name": "ENGENHARIA DE PRODUÇÃO",
+    "lessons": [
+      {
+        "period": "Noturno",
+        "weekday": "2ª",
+        "name": "Cálculo Aplicado",
+        "teacher": "Sidnei Marcelo Cominotti",
+        "zoomRoomURL": "https://zoom.us/j/5971661114"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "4ª",
+        "name": "Álgebra Linear",
+        "teacher": "Sidnei Marcelo Cominotti",
+        "zoomRoomURL": "https://zoom.us/j/5971661114"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "4ª",
+        "name": "Cadeia de Suprimentos",
+        "teacher": "Alexandre Sanches Copatto",
+        "zoomRoomURL": "https://zoom.us/j/9346793778"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "4ª",
+        "name": "Dinâmica",
+        "teacher": "Oswaldo Kazushi Fujiy",
+        "zoomRoomURL": "https://zoom.us/j/8945646862"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "4ª",
+        "name": "Fenômenos de Transportes",
+        "teacher": "Gabriela Bevilaqua",
+        "zoomRoomURL": "https://zoom.us/j/7807207843"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "4ª",
+        "name": "Sistemas de Informações Gerenciais",
+        "teacher": "Jose Luiz Alonso Silva",
+        "zoomRoomURL": "https://zoom.us/j/8339519632"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "5ª",
+        "name": "Concepção Ergonômica",
+        "teacher": "Jose Luiz Alonso Silva",
+        "zoomRoomURL": "https://zoom.us/j/8339519632"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "5ª",
+        "name": "Eletricidade e Magnetismo",
+        "teacher": "Priscila Todero de Almeida",
+        "zoomRoomURL": "https://zoom.us/j/8823995512"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "6ª",
+        "name": "Métodos Estatísticos Aplicados",
+        "teacher": "Antonino Giuseppe Spalletta",
+        "zoomRoomURL": "https://zoom.us/j/4709110033"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "6ª",
+        "name": "Simulações Empresariais",
+        "teacher": "Alexandre Sanches Copatto",
+        "zoomRoomURL": "https://zoom.us/j/9346793778"
+      }
+    ]
+  },
+  {
+    "name": "ENGENHARIA ELÉTRICA",
+    "lessons": [
+      {
+        "period": "Noturno",
+        "weekday": "2ª",
+        "name": "Análise de Sistemas de Potência",
+        "teacher": "João Carlos Fonseca Teixeira",
+        "zoomRoomURL": "https://zoom.us/j/8235270151"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "2ª",
+        "name": "Análise de Sistemas Lineares",
+        "teacher": "Priscila Todero de Almeida",
+        "zoomRoomURL": "https://zoom.us/j/8823995512"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "2ª",
+        "name": "Cálculo Aplicado",
+        "teacher": "Sidnei Marcelo Cominotti",
+        "zoomRoomURL": "https://zoom.us/j/5971661114"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "2ª",
+        "name": "Circuitos Elétricos",
+        "teacher": "Giovani Cesar de Faria",
+        "zoomRoomURL": "https://zoom.us/j/3906661160"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "2ª",
+        "name": "Controle Avançado",
+        "teacher": "Eduardo Fernandes Nunes",
+        "zoomRoomURL": "https://zoom.us/j/6897326601"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "3ª",
+        "name": "Conversão de Energia",
+        "teacher": "João Henrique Silva",
+        "zoomRoomURL": "https://zoom.us/j/710 809 2187"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "3ª",
+        "name": "Eletrcidade e Magnetismo",
+        "teacher": "Priscila Todero de Almeida",
+        "zoomRoomURL": "https://zoom.us/j/8823995512"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "3ª",
+        "name": "Introdução aos Sistemas de Potência",
+        "teacher": "João Carlos Fonseca Teixeira",
+        "zoomRoomURL": "https://zoom.us/j/8235270151"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "4ª",
+        "name": "Álgebra Linear",
+        "teacher": "Sidnei Marcelo Cominotti",
+        "zoomRoomURL": "https://zoom.us/j/5971661114"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "4ª",
+        "name": "Análise de Circuitos",
+        "teacher": "Eduardo Fernandes Nunes",
+        "zoomRoomURL": "https://zoom.us/j/6897326601"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "4ª",
+        "name": "Dinâmica",
+        "teacher": "Oswaldo Kazushi Fujiy",
+        "zoomRoomURL": "https://zoom.us/j/8945646862"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "4ª",
+        "name": "Distribuição de Energia Elétrica",
+        "teacher": "João Carlos Fonseca Teixeira",
+        "zoomRoomURL": "https://zoom.us/j/8235270151"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "4ª",
+        "name": "Fenômenos de Transportes",
+        "teacher": "Gabriela Bevilaqua",
+        "zoomRoomURL": "https://zoom.us/j/7807207843"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "4ª",
+        "name": "Legislação e Atribuições Profissionais",
+        "teacher": "Daiane Mardegan",
+        "zoomRoomURL": "https://zoom.us/j/2633901174"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "5ª",
+        "name": "Eletrônica Analógica",
+        "teacher": "Giovani Cesar de Faria",
+        "zoomRoomURL": "https://zoom.us/j/3906661160"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "5º",
+        "name": "Eletromagnetismo",
+        "teacher": "João Carlos Fonseca Teixeira",
+        "zoomRoomURL": "https://zoom.us/j/8235270151"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "6ª",
+        "name": "Geração Hidráulica e Planejamento Energético",
+        "teacher": "Eduardo Fernandes Nunes",
+        "zoomRoomURL": "https://zoom.us/j/6897326601"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "6ª",
+        "name": "Máquinas Elétricas",
+        "teacher": "João Carlos Fonseca Teixeira",
+        "zoomRoomURL": "https://zoom.us/j/8235270151"
+      }
+    ]
+  },
+  {
+    "name": "ENGENHARIA MECÂNICA",
+    "lessons": [
+      {
+        "period": "Noturno",
+        "weekday": "2ª",
+        "name": "Cálculo Aplicado",
+        "teacher": "Sidnei Marcelo Cominotti",
+        "zoomRoomURL": "https://zoom.us/j/5971661114"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "2ª",
+        "name": "Elementos Finitos",
+        "teacher": "Andrei Bavaresco Rezende",
+        "zoomRoomURL": "https://zoom.us/j/5615969292"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "2ª",
+        "name": "Processos Metalúrgicos",
+        "teacher": "Aristides Magri",
+        "zoomRoomURL": "https://zoom.us/j/5059569356"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "3ª",
+        "name": "Eletricidade e Magnetismo",
+        "teacher": "Priscila Todero de Almeida",
+        "zoomRoomURL": "https://zoom.us/j/8823995512"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "3ª",
+        "name": "Mecanismos e Robótica",
+        "teacher": "Andre Mendeleck",
+        "zoomRoomURL": "https://zoom.us/j/2819468265"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "3ª",
+        "name": "Projetos de Controle e Automação",
+        "teacher": "Anderson Pires Rocha",
+        "zoomRoomURL": "https://zoom.us/j/9539153800"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "3ª",
+        "name": "Sistema de refrigeração",
+        "teacher": "Oswaldo Kazushi Fujiy",
+        "zoomRoomURL": "https://zoom.us/j/8945646862"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "4ª",
+        "name": "Álgebra Linear",
+        "teacher": "Sidnei Marcelo Cominotti",
+        "zoomRoomURL": "https://zoom.us/j/5971661114"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "4ª",
+        "name": "Dinâmica",
+        "teacher": "Oswaldo Kazushi Fujiy",
+        "zoomRoomURL": "https://zoom.us/j/8945646862"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "4ª",
+        "name": "Fenômenos de Transportes",
+        "teacher": "Gabriela Bevilaqua",
+        "zoomRoomURL": "https://zoom.us/j/7807207843"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "4ª",
+        "name": "Flexibilidade e Suportação",
+        "teacher": "Andrei Bavaresco Rezende",
+        "zoomRoomURL": "https://zoom.us/j/5615969292"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "4ª",
+        "name": "Termodinâmica",
+        "teacher": "Priscila Todero de Almeida",
+        "zoomRoomURL": "https://zoom.us/j/8823995512"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "5ª",
+        "name": "Elementos Mecânicos de União",
+        "teacher": "Amauri Ernesto Gomes",
+        "zoomRoomURL": "https://zoom.us/j/8734571378"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "5ª",
+        "name": "Máquinas Térmicas e Processos Contínuos",
+        "teacher": "Tarcio Pelissoni Manfrim",
+        "zoomRoomURL": "https://zoom.us/j/6270017007"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "6ª",
+        "name": "Dinâmica Avançada",
+        "teacher": "Ivo Gianini",
+        "zoomRoomURL": "https://zoom.us/j/5300583230"
+      }
+    ]
+  },
+  {
+    "name": "ESTÉTICA E COSMÉTICA",
+    "lessons": [
+      {
+        "period": "Matutino",
+        "weekday": "2ª",
+        "name": "Microbiologia e Imunologia",
+        "teacher": "Rosana Francisco Siqueira dos Santos",
+        "zoomRoomURL": "https://zoom.us/j/5628766164"
+      },
+      {
+        "period": "Matutino",
+        "weekday": "2ª",
+        "name": "Temas Tecnológicos em Fundamentos de Gestão",
+        "teacher": "Jose Anizio Marim",
+        "zoomRoomURL": "https://zoom.us/j/2705410494"
+      },
+      {
+        "period": "Matutino",
+        "weekday": "3ª",
+        "name": "Biossegurança e Primeiros Socorros",
+        "teacher": "Marcia Consulin",
+        "zoomRoomURL": "https://zoom.us/j/5983318372"
+      },
+      {
+        "period": "Matutino",
+        "weekday": "3ª",
+        "name": "Patologia Humana",
+        "teacher": "Marcos Eduardo Lamas de Albuquerque",
+        "zoomRoomURL": "https://zoom.us/j/7154438556"
+      },
+      {
+        "period": "Matutino",
+        "weekday": "3ª",
+        "name": "Temas Tecnológicos em Fotografia e Imagem Pessoal",
+        "teacher": "Helena Maria Cecília Navarrete",
+        "zoomRoomURL": "https://zoom.us/j/2930490769"
+      },
+      {
+        "period": "Matutino",
+        "weekday": "4ª",
+        "name": "Imunologia",
+        "teacher": "Rosana Francisco Siqueira dos Santos",
+        "zoomRoomURL": "https://zoom.us/j/5628766164"
+      },
+      {
+        "period": "Matutino",
+        "weekday": "4ª",
+        "name": "Toxicologia Geral",
+        "teacher": "Daiana Maria Furlan Sandrini",
+        "zoomRoomURL": "https://zoom.us/j/9249323165"
+      },
+      {
+        "period": "Matutino",
+        "weekday": "5ª",
+        "name": "Citologia, Histologia e Embriologia",
+        "teacher": "Luciana Maria de Hollanda",
+        "zoomRoomURL": "https://zoom.us/j/5361941255"
+      },
+      {
+        "period": "Matutino",
+        "weekday": "5ª",
+        "name": "Cosmetologia",
+        "teacher": "Marcia Consulin",
+        "zoomRoomURL": "https://zoom.us/j/5983318372"
+      },
+      {
+        "period": "Matutino",
+        "weekday": "6ª",
+        "name": "Disfunções Estéticas Faciais",
+        "teacher": "Marina Vasconcelos Bonilha de Oliveira Neto",
+        "zoomRoomURL": "https://zoom.us/j/2684597212"
+      },
+      {
+        "period": "Matutino",
+        "weekday": "6ª",
+        "name": "Epidemiologia",
+        "teacher": "Ana Luiza Catani",
+        "zoomRoomURL": "https://zoom.us/j/8741971765"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "2ª",
+        "name": "Design de Sobrancelhas e Micropigmentação",
+        "teacher": "Letícia Mayara Paiva",
+        "zoomRoomURL": "https://zoom.us/j/5496990895"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "2ª",
+        "name": "Temas Tecnológicos em Fundamentos de Gestão",
+        "teacher": "Jose Anizio Marim",
+        "zoomRoomURL": "https://zoom.us/j/2705410494"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "3ª",
+        "name": "Patologia Humana",
+        "teacher": "Marcos Eduardo Lamas de Albuquerque",
+        "zoomRoomURL": "https://zoom.us/j/7154438556"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "3ª",
+        "name": "Técnicas Estéticas Faciais",
+        "teacher": "Marcia Consulin",
+        "zoomRoomURL": "https://zoom.us/j/5983318372"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "3ª",
+        "name": "Temas Tecnológicos em Fotografia e Imagem Pessoal",
+        "teacher": "Helena Maria Cecília Navarrete",
+        "zoomRoomURL": "https://zoom.us/j/2930490769"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "4ª",
+        "name": "Microbiologia e Imunologia",
+        "teacher": "Rosana Francisco Siqueira dos Santos",
+        "zoomRoomURL": "https://zoom.us/j/5628766164"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "4ª",
+        "name": "Visagismo e Maquiagem",
+        "teacher": "Letícia Mayara Paiva",
+        "zoomRoomURL": "https://zoom.us/j/5496990895"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "5ª",
+        "name": "Citologia, Histologia e Embriologia",
+        "teacher": "Luciana Maria de Hollanda",
+        "zoomRoomURL": "https://zoom.us/j/5361941255"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "5ª",
+        "name": "Tricologia e Cosmetologia Capilar",
+        "teacher": "Marcia Consulin",
+        "zoomRoomURL": "https://zoom.us/j/5983318372"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "6ª",
+        "name": "Disfunções Estéticas Faciais",
+        "teacher": "Marina Vasconcelos Bonilha de Oliveira Neto",
+        "zoomRoomURL": "https://zoom.us/j/2684597212"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "6ª",
+        "name": "Epidemiologia",
+        "teacher": "Ana Luiza Catani",
+        "zoomRoomURL": "https://zoom.us/j/8741971765"
+      }
+    ]
+  },
+  {
+    "name": "FARMÁCIA",
+    "lessons": [
+      {
+        "period": "Matutino",
+        "weekday": "3ª",
+        "name": "Biologia Molecular e Genética",
+        "teacher": "Luciana Maria de Hollanda",
+        "zoomRoomURL": "https://zoom.us/j/5361941255"
+      },
+      {
+        "period": "Matutino",
+        "weekday": "3ª",
+        "name": "Fisiologia Humana",
+        "teacher": "Fernando Oliveira Catanho da Silva",
+        "zoomRoomURL": "https://zoom.us/j/9942168268"
+      },
+      {
+        "period": "Matutino",
+        "weekday": "3ª",
+        "name": "Patologia Humana",
+        "teacher": "Marcos Eduardo Lamas de Albuquerque",
+        "zoomRoomURL": "https://zoom.us/j/7154438556"
+      },
+      {
+        "period": "Matutino",
+        "weekday": "4ª",
+        "name": "Epidemiologia e Bioestatísca",
+        "teacher": "Danielle Leite de Lemos Oliveira",
+        "zoomRoomURL": "https://zoom.us/j/2245095455"
+      },
+      {
+        "period": "Matutino",
+        "weekday": "4ª",
+        "name": "Microbiologia e Imunologia",
+        "teacher": "Andre Luis Marangoni",
+        "zoomRoomURL": "https://zoom.us/j/9324642136"
+      },
+      {
+        "period": "Matutino",
+        "weekday": "4ª",
+        "name": "Toxicologia Geral",
+        "teacher": "Daiana Maria Furlan Sandrini",
+        "zoomRoomURL": "https://zoom.us/j/9249323165"
+      },
+      {
+        "period": "Matutino",
+        "weekday": "5ª",
+        "name": "Farmacologia",
+        "teacher": "Bruno Damião",
+        "zoomRoomURL": "https://zoom.us/j/3855772689"
+      },
+      {
+        "period": "Matutino",
+        "weekday": "5ª",
+        "name": "Saúde Coletiva",
+        "teacher": "Monica Pimenta do Nascimento",
+        "zoomRoomURL": "https://zoom.us/j/4754766086"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "2ª",
+        "name": "Epidemiologia e Bioestatística",
+        "teacher": "Rachel Paes Guimaraes",
+        "zoomRoomURL": "https://zoom.us/j/2977237940"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "3ª",
+        "name": "Biologia Molecular e Genética",
+        "teacher": "Luciana Maria de Hollanda",
+        "zoomRoomURL": "https://zoom.us/j/5361941255"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "3ª",
+        "name": "Fisiologia Humana",
+        "teacher": "Danilo Roberto Xavier de Oliveira Crege",
+        "zoomRoomURL": "https://zoom.us/j/8961449722"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "4ª",
+        "name": "Epidemiologia e Bioestatísca",
+        "teacher": "Danielle Leite de Lemos Oliveira",
+        "zoomRoomURL": "https://zoom.us/j/2245095455"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "4ª",
+        "name": "Toxicologia geral",
+        "teacher": "Daiana Maria Furlan Sandrini",
+        "zoomRoomURL": "https://zoom.us/j/9249323165"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "5ª",
+        "name": "Saúde Coletiva",
+        "teacher": "Ivana Daniela Cesar",
+        "zoomRoomURL": "https://zoom.us/j/2921645139"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "",
+        "name": "Estágio Supervisionado I",
+        "teacher": "Lilian Faccioli de Sousa Ambrosio",
+        "zoomRoomURL": "https://zoom.us/j/5016102029"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "",
+        "name": "Estágio Supervisionado II",
+        "teacher": "Lilian Faccioli de Sousa Ambrosio",
+        "zoomRoomURL": "https://zoom.us/j/5016102029"
+      }
+    ]
+  },
+  {
+    "name": "FISIOTERAPIA",
+    "lessons": [
+      {
+        "period": "Matutino",
+        "weekday": "2ª",
+        "name": "Bases Clinicas da Fisioterapia Pneumofuncional",
+        "teacher": "Camila da Silva Pires",
+        "zoomRoomURL": "https://zoom.us/j/6039026962"
+      },
+      {
+        "period": "Matutino",
+        "weekday": "2ª",
+        "name": "Epidemiologia e Bioestatistica",
+        "teacher": "Rachel Paes Guimaraes",
+        "zoomRoomURL": "https://zoom.us/j/2977237940"
+      },
+      {
+        "period": "Matutino",
+        "weekday": "2ª",
+        "name": "Fisioterapia Dermatofuncional e estética",
+        "teacher": "Marina Vasconcelos Bonilha de Oliveira Neto",
+        "zoomRoomURL": "https://zoom.us/j/2684597212"
+      },
+      {
+        "period": "Matutino",
+        "weekday": "2ª",
+        "name": "Fisioterapia Pneumofuncional",
+        "teacher": "Camila da Silva Pires",
+        "zoomRoomURL": "https://zoom.us/j/6039026962"
+      },
+      {
+        "period": "Matutino",
+        "weekday": "3ª",
+        "name": "Fisiologia Humana",
+        "teacher": "Fernando Oliveira Catanho da Silva",
+        "zoomRoomURL": "https://zoom.us/j/9942168268"
+      },
+      {
+        "period": "Matutino",
+        "weekday": "3ª",
+        "name": "Fisioterapia em Gerontologia",
+        "teacher": "Rachel Paes Guimaraes",
+        "zoomRoomURL": "https://zoom.us/j/2977237940"
+      },
+      {
+        "period": "Matutino",
+        "weekday": "3ª",
+        "name": "Fisioterapia Traumatológica",
+        "teacher": "Fabiola Caruso e Silva",
+        "zoomRoomURL": "https://zoom.us/j/9057538729"
+      },
+      {
+        "period": "Matutino",
+        "weekday": "3ª",
+        "name": "Patologia Humana",
+        "teacher": "Marcos Eduardo Lamas de Albuquerque",
+        "zoomRoomURL": "https://zoom.us/j/7154438556"
+      },
+      {
+        "period": "Matutino",
+        "weekday": "4ª",
+        "name": "Bases Clinicas da Fisioterapia Cardiofuncional",
+        "teacher": "Camila da Silva Pires",
+        "zoomRoomURL": "https://zoom.us/j/6039026962"
+      },
+      {
+        "period": "Matutino",
+        "weekday": "4ª",
+        "name": "Fisioterapia Cardiofuncional",
+        "teacher": "Camila da Silva Pires",
+        "zoomRoomURL": "https://zoom.us/j/6039026962"
+      },
+      {
+        "period": "Matutino",
+        "weekday": "4ª",
+        "name": "Fisioterapia Ortopédica",
+        "teacher": "Fabio Augusto Facio",
+        "zoomRoomURL": "https://zoom.us/j/7722011317"
+      },
+      {
+        "period": "Matutino",
+        "weekday": "5ª",
+        "name": "Bioética e Deontologia em Fisioterapia",
+        "teacher": "Claudia Pignatti Frederice Teixeira",
+        "zoomRoomURL": "https://zoom.us/j/8749902526"
+      },
+      {
+        "period": "Matutino",
+        "weekday": "5ª",
+        "name": "Farmacologia",
+        "teacher": "Bruno Damião",
+        "zoomRoomURL": "https://zoom.us/j/3855772689"
+      },
+      {
+        "period": "Matutino",
+        "weekday": "5ª",
+        "name": "Saúde Coletiva",
+        "teacher": "Monica Pimenta do Nascimento",
+        "zoomRoomURL": "https://zoom.us/j/4754766086"
+      },
+      {
+        "period": "Matutino",
+        "weekday": "6ª",
+        "name": "Anatomia Humana Geral",
+        "teacher": "Giuliano Roberto Gonçalves",
+        "zoomRoomURL": "https://zoom.us/j/6851566188"
+      },
+      {
+        "period": "Matutino",
+        "weekday": "6ª",
+        "name": "Exames diagnosticos Fisioterapeuticos",
+        "teacher": "Fabiola Caruso e Silva",
+        "zoomRoomURL": "https://zoom.us/j/9057538729"
+      },
+      {
+        "period": "Matutino",
+        "weekday": "",
+        "name": "Trabalho de Conclusão de Curso",
+        "teacher": "Alice Bella Lisboa Rezende",
+        "zoomRoomURL": "https://zoom.us/j/8685583391"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "2ª",
+        "name": "Anatomia Aparelho Locomotor",
+        "teacher": "Fabio Augusto Facio",
+        "zoomRoomURL": "https://zoom.us/j/7722011317"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "2ª",
+        "name": "Bases Clinicas da Fisioterapia Pneumofuncional",
+        "teacher": "Camila da Silva Pires",
+        "zoomRoomURL": "https://zoom.us/j/6039026962"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "2ª",
+        "name": "Epidemiologia e Bioestatística",
+        "teacher": "Rachel Paes Guimaraes",
+        "zoomRoomURL": "https://zoom.us/j/2977237940"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "2ª",
+        "name": "Fisioterapia Dermatofuncional e estética",
+        "teacher": "Marina Vasconcelos Bonilha de Oliveira Neto",
+        "zoomRoomURL": "https://zoom.us/j/2684597212"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "2ª",
+        "name": "Fisioterapia Pneumofuncional",
+        "teacher": "Camila da Silva Pires",
+        "zoomRoomURL": "https://zoom.us/j/6039026962"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "3ª",
+        "name": "Fisiologia Humana",
+        "teacher": "Danilo Roberto Xavier de Oliveira Crege",
+        "zoomRoomURL": "https://zoom.us/j/8961449722"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "3ª",
+        "name": "Fisioterapia em Gerontologia",
+        "teacher": "Rachel Paes Guimaraes",
+        "zoomRoomURL": "https://zoom.us/j/2977237940"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "3ª",
+        "name": "Fisioterapia Traumatológica",
+        "teacher": "Fabiola Caruso e Silva",
+        "zoomRoomURL": "https://zoom.us/j/9057538729"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "3ª",
+        "name": "Patologia Humana",
+        "teacher": "Marcos Eduardo Lamas de Albuquerque",
+        "zoomRoomURL": "https://zoom.us/j/7154438556"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "4ª",
+        "name": "Bases Clinicas da Fisioterapia Cardiofuncional",
+        "teacher": "Alice Bella Lisboa Rezende",
+        "zoomRoomURL": "https://zoom.us/j/8685583391"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "4ª",
+        "name": "Fisioterapia Cardiofuncional",
+        "teacher": "Alice Bella Lisboa Rezende",
+        "zoomRoomURL": "https://zoom.us/j/8685583391"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "4ª",
+        "name": "Fisioterapia Ortopédica",
+        "teacher": "Fabio Augusto Facio",
+        "zoomRoomURL": "https://zoom.us/j/7722011317"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "5ª",
+        "name": "Bioética e Deontologia em Fisioterapia",
+        "teacher": "Claudia Pignatti Frederice Teixeira",
+        "zoomRoomURL": "https://zoom.us/j/8749902526"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "5ª",
+        "name": "Farmacologia",
+        "teacher": "Ana Beatriz Albino de Almeida",
+        "zoomRoomURL": "https://zoom.us/j/4917952066"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "5ª",
+        "name": "Saúde Coletiva",
+        "teacher": "Ivana Daniela Cesar",
+        "zoomRoomURL": "https://zoom.us/j/2921645139"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "6ª",
+        "name": "Anatomia Humana Geral",
+        "teacher": "Giuliano Roberto Gonçalves",
+        "zoomRoomURL": "https://zoom.us/j/6851566188"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "6ª",
+        "name": "Exames diagnosticos Fisioterapeuticos",
+        "teacher": "Fabiola Caruso e Silva",
+        "zoomRoomURL": "https://zoom.us/j/9057538729"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "",
+        "name": "Trabalho de Conclusão de Curso",
+        "teacher": "Alice Bella Lisboa Rezende",
+        "zoomRoomURL": "https://zoom.us/j/8685583391"
+      }
+    ]
+  },
+  {
+    "name": "GASTRONOMIA",
+    "lessons": [
+      {
+        "period": "Matutino",
+        "weekday": "2ª",
+        "name": "Administração e logística de serviços de alimentação",
+        "teacher": "Sandra Chedid Racy",
+        "zoomRoomURL": "https://zoom.us/j/5296584944"
+      },
+      {
+        "period": "Matutino",
+        "weekday": "3ª",
+        "name": "Tecnologia de alimentos - confeitaria e panificação",
+        "teacher": "Carolina Rondello",
+        "zoomRoomURL": "https://zoom.us/j/3294127352"
+      },
+      {
+        "period": "Matutino",
+        "weekday": "4ª",
+        "name": "Frances Instrumental",
+        "teacher": "Erica Blascovi de Carvalho",
+        "zoomRoomURL": "https://zoom.us/j/5087983607"
+      },
+      {
+        "period": "Matutino",
+        "weekday": "5ª",
+        "name": "Nutrição e dietética",
+        "teacher": "Rafaela da Silva Marineli",
+        "zoomRoomURL": "https://zoom.us/j/7448587591"
+      },
+      {
+        "period": "Matutino",
+        "weekday": "5ª",
+        "name": "Temas Tecnológicos em Culinária Moderna",
+        "teacher": "Silvia Satie Tuyama",
+        "zoomRoomURL": "https://zoom.us/j/6684070213"
+      },
+      {
+        "period": "Matutino",
+        "weekday": "6ª",
+        "name": "Tecnologia de alimentos - cozinha Francesa",
+        "teacher": "Aline Soares Guedes da Silva Ramos",
+        "zoomRoomURL": "https://zoom.us/j/4765856950"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "2ª",
+        "name": "Frances Instrumental",
+        "teacher": "Erica Blascovi de Carvalho",
+        "zoomRoomURL": "https://zoom.us/j/5087983607"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "3ª",
+        "name": "Administração e logística de serviços de alimentação",
+        "teacher": "Sandra Chedid Racy",
+        "zoomRoomURL": "https://zoom.us/j/5296584944"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "4ª",
+        "name": "Nutrição e dietética",
+        "teacher": "Erica Blascovi de Carvalho",
+        "zoomRoomURL": "https://zoom.us/j/5087983607"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "5ª",
+        "name": "Gestão Financeira e Contábil de Serviços de Alimentação",
+        "teacher": "Ederson Oliva Gobato",
+        "zoomRoomURL": "https://zoom.us/j/3536167387"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "5ª",
+        "name": "Temas Tecnológicos em Culinária Moderna",
+        "teacher": "Silvia Satie Tuyama",
+        "zoomRoomURL": "https://zoom.us/j/6684070213"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "6ª",
+        "name": "Marketing e Planejamento dos Serviços de Alimentação",
+        "teacher": "Aline Soares Guedes da Silva Ramos",
+        "zoomRoomURL": "https://zoom.us/j/4765856950"
+      }
+    ]
+  },
+  {
+    "name": "GESTÃO DE QUALIDADE",
+    "lessons": [
+      {
+        "period": "Noturno",
+        "weekday": "2ª",
+        "name": "Estudos de Caso em Humanidades e Meio Ambiente (online)",
+        "teacher": "Jose Anizio Marim",
+        "zoomRoomURL": "https://zoom.us/j/2705410494"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "2ª",
+        "name": "Legislação, Normas e Certificação",
+        "teacher": "João Henrique Escamia",
+        "zoomRoomURL": "https://zoom.us/j/7324664775"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "2ª",
+        "name": "Temas tecnologicos em Qualiadde e Produtividade",
+        "teacher": "João Henrique Escamia",
+        "zoomRoomURL": "https://zoom.us/j/7324664775"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "3ª",
+        "name": "Gestão Estratégica",
+        "teacher": "Edilson Antonio Ignacio",
+        "zoomRoomURL": "https://zoom.us/j/9293442738"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "4ª",
+        "name": "Negociação e Gestão do Clima Organizacional",
+        "teacher": "Katia Santos de Oliveira Bastos",
+        "zoomRoomURL": "https://zoom.us/j/7899773082"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "5ª",
+        "name": "Temas tecnologicos em Qualiadde e Produtividade",
+        "teacher": "João Henrique Escamia",
+        "zoomRoomURL": "https://zoom.us/j/7324664775"
+      }
+    ]
+  },
+  {
+    "name": "GESTÃO DE RECURSOS HUMANOS",
+    "lessons": [
+      {
+        "period": "Noturno",
+        "weekday": "2ª",
+        "name": "Recrutamento e Seleção por Competência",
+        "teacher": "Roseli Filizatti",
+        "zoomRoomURL": "https://zoom.us/j/3219257984"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "2ª",
+        "name": "Treinamento e Desenvolvimento Por Competência",
+        "teacher": "Katia Santos de Oliveira Bastos",
+        "zoomRoomURL": "https://zoom.us/j/7899773082"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "3ª",
+        "name": "Gestão Estratégica",
+        "teacher": "Edilson Antonio Ignacio",
+        "zoomRoomURL": "https://zoom.us/j/9293442738"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "4ª",
+        "name": "Matemática Empresarial",
+        "teacher": "Maria Aparecida dos Santos",
+        "zoomRoomURL": "https://zoom.us/j/4421264645"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "4ª",
+        "name": "Negociação e Gestão do Clima Organizacional",
+        "teacher": "Katia Santos de Oliveira Bastos",
+        "zoomRoomURL": "https://zoom.us/j/7899773082"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "5ª",
+        "name": "Princípios de Gestão",
+        "teacher": "Edilson Antonio Ignacio",
+        "zoomRoomURL": "https://zoom.us/j/9293442738"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "5ª",
+        "name": "Temas Tecnológicos em Recrutamento e Seleção Por Competência",
+        "teacher": "Roseli Filizatti",
+        "zoomRoomURL": "https://zoom.us/j/3219257984"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "6ª",
+        "name": "Comportamento Organizacional",
+        "teacher": "Jose Anizio Marim",
+        "zoomRoomURL": "https://zoom.us/j/2705410494"
+      }
+    ]
+  },
+  {
+    "name": "GESTÃO FINANCEIRA",
+    "lessons": [
+      {
+        "period": "Noturno",
+        "weekday": "3ª",
+        "name": "Gestão Estratégica",
+        "teacher": "Edilson Antonio Ignacio",
+        "zoomRoomURL": "https://zoom.us/j/9293442738"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "4ª",
+        "name": "Matemática Empresarial",
+        "teacher": "Maria Aparecida dos Santos",
+        "zoomRoomURL": "https://zoom.us/j/4421264645"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "4ª",
+        "name": "Negociação e Gestão do Clima Organizacional",
+        "teacher": "Katia Santos de Oliveira Bastos",
+        "zoomRoomURL": "https://zoom.us/j/7899773082"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "5ª",
+        "name": "Marketing Empresarial",
+        "teacher": "Jorge Luiz Azevedo",
+        "zoomRoomURL": "https://zoom.us/j/8159132632"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "5ª",
+        "name": "Princípios de Gestão",
+        "teacher": "Edilson Antonio Ignacio",
+        "zoomRoomURL": "https://zoom.us/j/9293442738"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "5ª",
+        "name": "Temas Tecnológicos em Gestão de Fluxo de Caixa",
+        "teacher": "Enedir Antonio Beccari",
+        "zoomRoomURL": "https://zoom.us/j/8322911092"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "6ª",
+        "name": "Comportamento Organizacional",
+        "teacher": "Jose Anizio Marim",
+        "zoomRoomURL": "https://zoom.us/j/2705410494"
+      }
+    ]
+  },
+  {
+    "name": "LOGÍSTICA",
+    "lessons": [
+      {
+        "period": "Noturno",
+        "weekday": "2ª",
+        "name": "Distribuição e Transporte",
+        "teacher": "Frederico da Costa Silva",
+        "zoomRoomURL": "https://zoom.us/j/9757630553"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "2ª",
+        "name": "Temas Tecnologicos em Gestão Estratégica de Logística",
+        "teacher": "Frederico da Costa Silva",
+        "zoomRoomURL": "https://zoom.us/j/9757630553"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "2ª",
+        "name": "Treinamento e Desenvolvimento Por Competência",
+        "teacher": "Katia Santos de Oliveira Bastos",
+        "zoomRoomURL": "https://zoom.us/j/7899773082"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "3ª",
+        "name": "Gestão Estratégica",
+        "teacher": "Ademilson Carlos Teixeira",
+        "zoomRoomURL": "https://zoom.us/j/4089008573"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "3ª",
+        "name": "Temas Tecnologicos em Gestão Estratégica de Logística",
+        "teacher": "Frederico da Costa Silva",
+        "zoomRoomURL": "https://zoom.us/j/9757630553"
+      }
+    ]
+  },
+  {
+    "name": "MARKETING",
+    "lessons": [
+      {
+        "period": "Noturno",
+        "weekday": "2ª",
+        "name": "Contabilidade Geral - Introdutória",
+        "teacher": "Kleber Marsariolli",
+        "zoomRoomURL": "https://zoom.us/j/5954955117"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "3ª",
+        "name": "Gestão Estratégica",
+        "teacher": "Edilson Antonio Ignacio",
+        "zoomRoomURL": "https://zoom.us/j/9293442738"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "3ª",
+        "name": "Matemática Empresarial",
+        "teacher": "Maria Aparecida dos Santos",
+        "zoomRoomURL": "https://zoom.us/j/4421264645"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "4ª",
+        "name": "Negociação e Gestão do Clima Organizacional",
+        "teacher": "Katia Santos de Oliveira Bastos",
+        "zoomRoomURL": "https://zoom.us/j/7899773082"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "5ª",
+        "name": "Princípios de Gestão",
+        "teacher": "Edilson Antonio Ignacio",
+        "zoomRoomURL": "https://zoom.us/j/9293442738"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "6ª",
+        "name": "Comportamento Organizacional",
+        "teacher": "Jose Anizio Marim",
+        "zoomRoomURL": "https://zoom.us/j/2705410494"
+      }
+    ]
+  },
+  {
+    "name": "NUTRIÇÃO",
+    "lessons": [
+      {
+        "period": "Matutino",
+        "weekday": "2ª",
+        "name": "Saúde Ambiental",
+        "teacher": "Silvia Henrique de Campos",
+        "zoomRoomURL": "https://zoom.us/j/3959586940"
+      },
+      {
+        "period": "Matutino",
+        "weekday": "2ª",
+        "name": "Segurança de Alimentos",
+        "teacher": "Rafaela da Silva Marineli",
+        "zoomRoomURL": "https://zoom.us/j/7448587591"
+      },
+      {
+        "period": "Matutino",
+        "weekday": "4ª",
+        "name": "Gestão de Unidades de Alimentação e Nutrição",
+        "teacher": "Silvia Henrique de Campos",
+        "zoomRoomURL": "https://zoom.us/j/3959586940"
+      },
+      {
+        "period": "Matutino",
+        "weekday": "4ª",
+        "name": "Planejamento e Administração de Serviços de Alimentação",
+        "teacher": "Silvia Henrique de Campos",
+        "zoomRoomURL": "https://zoom.us/j/3959586940"
+      },
+      {
+        "period": "Matutino",
+        "weekday": "6ª",
+        "name": "Custos em Nutrição",
+        "teacher": "Erica Blascovi de Carvalho",
+        "zoomRoomURL": "https://zoom.us/j/5087983607"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "2ª",
+        "name": "Segurança de Alimentos",
+        "teacher": "Rafaela da Silva Marineli",
+        "zoomRoomURL": "https://zoom.us/j/7448587591"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "3ª",
+        "name": "Gestão de Unidades de Alimentação e Nutrição",
+        "teacher": "Silvia Henrique de Campos",
+        "zoomRoomURL": "https://zoom.us/j/3959586940"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "4ª",
+        "name": "Bromatologia e Tecnologia de Alimentos",
+        "teacher": "Flavia Noeli de Souza Infante",
+        "zoomRoomURL": "https://zoom.us/j/4313408481"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "4ª",
+        "name": "Marketing e Empreendedorismo em Nutrição",
+        "teacher": "Rodrigo Daniel Sanches",
+        "zoomRoomURL": "https://zoom.us/j/6744901793"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "4ª",
+        "name": "Saúde Ambiental",
+        "teacher": "Silvia Henrique de Campos",
+        "zoomRoomURL": "https://zoom.us/j/3959586940"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "5ª",
+        "name": "Planejamento e Administração de Serviços de Alimentação",
+        "teacher": "Silvia Henrique de Campos",
+        "zoomRoomURL": "https://zoom.us/j/3959586940"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "6ª",
+        "name": "Bioquímica de Alimentos",
+        "teacher": "Flavia Noeli de Souza Infante",
+        "zoomRoomURL": "https://zoom.us/j/4313408481"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "6ª",
+        "name": "Custos em Nutrição",
+        "teacher": "Erica Blascovi de Carvalho",
+        "zoomRoomURL": "https://zoom.us/j/5087983607"
+      }
+    ]
+  },
+  {
+    "name": "PEDAGOGIA",
+    "lessons": [
+      {
+        "period": "Noturno",
+        "weekday": "2ª",
+        "name": "Metodologia e Prática da Matemática",
+        "teacher": "Antonino Giuseppe Spalletta",
+        "zoomRoomURL": "https://zoom.us/j/4709110033"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "3ª",
+        "name": "Metodologia e Prática das Ciências Naturais",
+        "teacher": "Irani Campos Marchiori",
+        "zoomRoomURL": "https://zoom.us/j/2898232278"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "4ª",
+        "name": "Legislação e Organização da Educação Básica",
+        "teacher": "Rubia Cristina Cruz",
+        "zoomRoomURL": "https://zoom.us/j/2517260859"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "5ª",
+        "name": "Psicopedagogia",
+        "teacher": "Silvia Cristina Salomão",
+        "zoomRoomURL": ""
+      },
+      {
+        "period": "Noturno",
+        "weekday": "",
+        "name": "Estágio Supervisionado",
+        "teacher": "Rubia Cristina Cruz",
+        "zoomRoomURL": "https://zoom.us/j/2517260859"
+      }
+    ]
+  },
+  {
+    "name": "PRODUÇÃO AUDIOVISUAL",
+    "lessons": [
+      {
+        "period": "Noturno",
+        "weekday": "5ª",
+        "name": "Edição para TV, Vídeo e Multimídia",
+        "teacher": "Felipe Orsini Martineli",
+        "zoomRoomURL": "https://zoom.us/j/9686838472"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "5ª",
+        "name": "Temas Tecnológicos em Direção de TV e Vídeo",
+        "teacher": "Paulo de Barros Ribeiro",
+        "zoomRoomURL": "https://zoom.us/j/2281075892"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "6ª",
+        "name": "Técnicas de Iluminação",
+        "teacher": "Giuliano Faustino Griege Machado",
+        "zoomRoomURL": "https://zoom.us/j/4586119891"
+      }
+    ]
+  },
+  {
+    "name": "PSICOLOGIA",
+    "lessons": [
+      {
+        "period": "Noturno",
+        "weekday": "2ª",
+        "name": "Neuroanatofisiologia",
+        "teacher": "Bruno Damião",
+        "zoomRoomURL": "https://zoom.us/j/3855772689"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "2ª",
+        "name": "Psicologia do Desenvolvimento Humano",
+        "teacher": "Ariane Bizzarri Costa Pires",
+        "zoomRoomURL": "https://zoom.us/j/3500065097"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "3ª",
+        "name": "Desenvolvimento dos Processos Psicológicos",
+        "teacher": "Maria Cristina Zago Castelli",
+        "zoomRoomURL": "https://zoom.us/j/5239098475"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "3ª",
+        "name": "Psicologia da Saúde",
+        "teacher": "Claudia Sandroni Silva de Campas",
+        "zoomRoomURL": "https://zoom.us/j/8271465697"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "4ª",
+        "name": "Antropologia Sociocultural",
+        "teacher": "Kenia Kemp",
+        "zoomRoomURL": "https://zoom.us/j/4408663612"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "4ª",
+        "name": "Teorias e Sistemas: Comportamental",
+        "teacher": "Juliana Tonizza Puglia Santos",
+        "zoomRoomURL": "https://zoom.us/j/2971116250"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "5ª",
+        "name": "Psicologia do Desenvolvimento Humano",
+        "teacher": "Irani Campos Marchiori",
+        "zoomRoomURL": "https://zoom.us/j/2898232278"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "5ª",
+        "name": "Psicologia Social",
+        "teacher": "Juliana Soares de Jesus",
+        "zoomRoomURL": "https://zoom.us/j/3947574825"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "6ª",
+        "name": "Teorias e Sistemas: Fenomenologia, Existencialismo e Humanismo",
+        "teacher": "Marcio Melo Guimaraes de Souza",
+        "zoomRoomURL": "https://zoom.us/j/7145745653"
+      }
+    ]
+  },
+  {
+    "name": "PUBLICIDADE E PROPAGANDA",
+    "lessons": [
+      {
+        "period": "Noturno",
+        "weekday": "2ª",
+        "name": "Atelier de Leitura e Produção Textual",
+        "teacher": "Ademilson Carlos Teixeira",
+        "zoomRoomURL": "https://zoom.us/j/4089008573"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "2ª",
+        "name": "Direção de Arte",
+        "teacher": "Kenny Zukowski Marques",
+        "zoomRoomURL": "https://zoom.us/j/4392764335"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "2ª",
+        "name": "Seminários em Comunicação",
+        "teacher": "Marcelo Carlos Falcao Meneghetti",
+        "zoomRoomURL": "https://zoom.us/j/9424814449"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "2ª",
+        "name": "TCC",
+        "teacher": "Luiz Carlos Ferreira Martins Correa",
+        "zoomRoomURL": "https://zoom.us/j/7664783461"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "3ª",
+        "name": "Cultura Brasileira",
+        "teacher": "Kenia Kemp",
+        "zoomRoomURL": "https://zoom.us/j/4408663612"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "3ª",
+        "name": "Projeto em Comunicação",
+        "teacher": "Luiz Carlos Ferreira Martins Correa",
+        "zoomRoomURL": "https://zoom.us/j/7664783461"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "4ª",
+        "name": "Comunicação Visual",
+        "teacher": "Jackeson Roberto de Almeida Vidal",
+        "zoomRoomURL": "https://zoom.us/j/8857817179"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "4ª",
+        "name": "Teorias da Comunicação",
+        "teacher": "Maria Aparecida de Almeida",
+        "zoomRoomURL": "https://zoom.us/j/4305528528"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "5ª",
+        "name": "Estágio Supervisionado",
+        "teacher": "Rodrigo Daniel Sanches",
+        "zoomRoomURL": "https://zoom.us/j/6744901793"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "5ª",
+        "name": "Linguagem Audiovisual",
+        "teacher": "Helena Maria Cecília Navarrete",
+        "zoomRoomURL": "https://zoom.us/j/2930490769"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "5ª",
+        "name": "Materiais e Processos Gráficos",
+        "teacher": "Roberta Steganha",
+        "zoomRoomURL": "https://zoom.us/j/7113642300"
+      }
+    ]
+  },
+  {
+    "name": "REDES DE COMPUTADORES",
+    "lessons": [
+      {
+        "period": "Noturno",
+        "weekday": "2ª",
+        "name": "Protocolos de Comunicação TCP/IP",
+        "teacher": "Marcos Antonio de Almeida Cora",
+        "zoomRoomURL": "https://zoom.us/j/8278456556"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "4ª",
+        "name": "Programação Orientada a Objetos",
+        "teacher": "João Ronaldo Del Ducca Cunha",
+        "zoomRoomURL": "https://zoom.us/j/5467545672"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "5ª",
+        "name": "Sistemas Operacionais",
+        "teacher": "Giulliano Paes Carnielli",
+        "zoomRoomURL": "https://zoom.us/j/7464539371"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "5ª",
+        "name": "Temas Tecnológicos em Raciocínio Lógico e Matemático",
+        "teacher": "Odair Jacinto da Silva",
+        "zoomRoomURL": "https://zoom.us/j/2812641801"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "6ª",
+        "name": "Laboratório de Redes Windows",
+        "teacher": "Paulo da Costa",
+        "zoomRoomURL": "https://zoom.us/j/8999815915"
+      }
+    ]
+  },
+  {
+    "name": "RELAÇÕES PÚBLICAS",
+    "lessons": [
+      {
+        "period": "Noturno",
+        "weekday": "2ª",
+        "name": "Atelier de Leitura e Produção Textual",
+        "teacher": "Ademilson Carlos Teixeira",
+        "zoomRoomURL": "https://zoom.us/j/4089008573"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "2ª",
+        "name": "Estruturação do Setor de Relações Públicas",
+        "teacher": "Maria Aparecida de Almeida",
+        "zoomRoomURL": "https://zoom.us/j/4305528528"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "3ª",
+        "name": "Cultura Brasileira",
+        "teacher": "Kenia Kemp",
+        "zoomRoomURL": "https://zoom.us/j/4408663612"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "3ª",
+        "name": "Gestão de Projetos em Relações Públicas",
+        "teacher": "Silvana Maria Nader",
+        "zoomRoomURL": "https://zoom.us/j/6031887077"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "4ª",
+        "name": "Relações Internacionais",
+        "teacher": "Paulo Roberto Lourenço",
+        "zoomRoomURL": "https://zoom.us/j/5333634123"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "4ª",
+        "name": "Teorias da Comunicação",
+        "teacher": "Maria Aparecida de Almeida",
+        "zoomRoomURL": "https://zoom.us/j/4305528528"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "5ª",
+        "name": "Ética e Legislação em Relações Públicas",
+        "teacher": "Fabiano Ormaneze",
+        "zoomRoomURL": "https://zoom.us/j/2818156024"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "5ª",
+        "name": "Linguagem Audiovisual",
+        "teacher": "Helena Maria Cecília Navarrete",
+        "zoomRoomURL": "https://zoom.us/j/2930490769"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "6ª",
+        "name": "Gestão de Marcas - Branding",
+        "teacher": "Jorge Tadeu Brettas de Godoy",
+        "zoomRoomURL": "https://zoom.us/j/3982540067"
+      }
+    ]
+  },
+  {
+    "name": "SISTEMAS DE INFORMAÇÃO",
+    "lessons": [
+      {
+        "period": "Noturno",
+        "weekday": "2ª",
+        "name": "Laboratório de Redes Windows",
+        "teacher": "Paulo da Costa",
+        "zoomRoomURL": "https://zoom.us/j/8999815915"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "3ª",
+        "name": "Redes de Computadores",
+        "teacher": "Nadir Pereira Dias",
+        "zoomRoomURL": "https://zoom.us/j/2674535473"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "4ª",
+        "name": "Computação Científica",
+        "teacher": "Alan Gonçalves",
+        "zoomRoomURL": "https://zoom.us/j/8049883181"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "4ª",
+        "name": "Programação Orientada a Objetos",
+        "teacher": "Odair Jacinto da Silva",
+        "zoomRoomURL": "https://zoom.us/j/2812641801"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "5ª",
+        "name": "Inteligência Artificial",
+        "teacher": "João Ronaldo Del Ducca Cunha",
+        "zoomRoomURL": "https://zoom.us/j/5467545672"
+      },
+      {
+        "period": "Noturno",
+        "weekday": "6ª",
+        "name": "Teoria dos Grafos",
+        "teacher": "Giulliano Paes Carnielli",
+        "zoomRoomURL": "https://zoom.us/j/7464539371"
+      }
+    ]
+  }
+]

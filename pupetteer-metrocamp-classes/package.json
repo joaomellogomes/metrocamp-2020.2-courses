@@ -1,0 +1,17 @@
+{
+  "name": "pupetteer-metrocamp-classes",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "ts-node-dev --respawn --transpile-only index.ts"
+  },
+  "devDependencies": {
+    "@types/puppeteer": "^3.0.1",
+    "ts-node-dev": "^1.0.0-pre.58",
+    "typescript": "^3.9.7"
+  },
+  "dependencies": {
+    "puppeteer": "^5.2.1"
+  }
+}
