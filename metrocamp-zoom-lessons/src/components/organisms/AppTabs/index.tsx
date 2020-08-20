@@ -13,18 +13,18 @@ export default function AppTabs() {
         className={classes.buttonLink}
         variant="contained"
         color="primary"
-        href="/seila"
+        href="/Aulas"
       >
-        seila
+        Aulas
       </Button>
 
       <Button
         className={classes.buttonLink}
         variant="contained"
         color="primary"
-        href="/outroseila"
+        href="/Gradista"
       >
-        outroseila
+        Gradista
       </Button>
     </Container>
   );
